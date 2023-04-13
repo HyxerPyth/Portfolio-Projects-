@@ -6,13 +6,21 @@ Excel:
 
  - Nashvile Housing Data Analysis report: 
  
-  - Pivot Tables
+   - Pivot Tables
   
-  - Data cleaning 
+   - Data cleaning 
   
-  - Data Sorting 
+   - Data Sorting 
   
-  - Building Diagrams 
+   - Building Diagrams 
+   
+ - Fedex sales Data:
+  
+   - Pivot Tables
+
+   - Data cleaning 
+
+   - Data Sorting 
 
 SQL: 
 
