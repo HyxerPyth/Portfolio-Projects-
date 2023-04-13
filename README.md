@@ -4,7 +4,7 @@ These projects were created to show my skills in Data Analysis and SQL Developme
 
 Excel: 
 
- - Nashvile Housing Data Analysis report: 
+ - Bike Sales Data Analysis report: 
  
    - Pivot Tables
   
